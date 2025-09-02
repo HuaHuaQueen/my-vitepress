@@ -111,6 +111,7 @@ const footer = {
 }
 
 export default defineConfig({
+    base:'/my-vitepress/',
     title,
     lastUpdated: true, // 显示页面最后更新时间
     description: "公务员考试资料",
