@@ -112,7 +112,6 @@ const footer = {
 
 export default defineConfig({
     title,
-    base: '/',
     lastUpdated: true, // 显示页面最后更新时间
     description: "公务员考试资料",
     themeConfig: {
