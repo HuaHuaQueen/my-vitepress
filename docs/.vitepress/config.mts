@@ -45,46 +45,46 @@ const sidebar = [
         text: '言语理解',
         collapsed: true,
         items: [
-            {text: '中心理解题', link: './pages/speech-comprehension/central-comprehension'},
-            {text: '语句排序题', link: './pages/speech-comprehension/statement-order'},
-            {text: '语句填空题', link: './pages/speech-comprehension/sentence-blanks'},
-            {text: '接语选择题', link: './pages/speech-comprehension/conversation-pick-up'},
-            {text: '扩展', link: './pages/speech-comprehension/expansion'}
+            {text: '中心理解题', link: '/pages/speech-comprehension/central-comprehension'},
+            {text: '语句排序题', link: '/pages/speech-comprehension/statement-order'},
+            {text: '语句填空题', link: '/pages/speech-comprehension/sentence-blanks'},
+            {text: '接语选择题', link: '/pages/speech-comprehension/conversation-pick-up'},
+            {text: '扩展', link: '/pages/speech-comprehension/expansion'}
         ]
     },
     {
         text: '资料分析',
         collapsed: true,
         items: [
-            {text: '速算技巧', link: './pages/data-analysis/calculation-skills'},
-            {text: '基期与现期', link: './pages/data-analysis/base-period-and-current-period'},
-            {text: '常见术语', link: './pages/data-analysis/common-terms'},
-            {text: '做题技巧', link: './pages/data-analysis/test-skills'},
-            {text: '总结', link: './pages/data-analysis/summary'},
-            {text: '扩展', link: './pages/data-analysis/expansion'},
+            {text: '速算技巧', link: '/pages/data-analysis/calculation-skills'},
+            {text: '基期与现期', link: '/pages/data-analysis/base-period-and-current-period'},
+            {text: '常见术语', link: '/pages/data-analysis/common-terms'},
+            {text: '做题技巧', link: '/pages/data-analysis/test-skills'},
+            {text: '总结', link: '/pages/data-analysis/summary'},
+            {text: '扩展', link: '/pages/data-analysis/expansion'},
         ]
     },
     {
         text: '判断推理',
         collapsed: true,
         items: [
-            {text: '图形推理', link: './pages/judgment-reasoning/graphic-reasoning'},
-            {text: '语义推理', link: './pages/judgment-reasoning/semantic-reasoning'},
-            {text: '翻译推理', link: './pages/judgment-reasoning/translation-reasoning'},
+            {text: '图形推理', link: '/pages/judgment-reasoning/graphic-reasoning'},
+            {text: '语义推理', link: '/pages/judgment-reasoning/semantic-reasoning'},
+            {text: '翻译推理', link: '/pages/judgment-reasoning/translation-reasoning'},
         ]
     },
     {
         text: '数量',
         collapsed: true,
         items: [
-            {text: '数量关系', link: './pages/quantity/quantitative-relationship'}
+            {text: '数量关系', link: '/pages/quantity/quantitative-relationship'}
         ]
     },
     {
         text: '申论',
         collapsed: true,
         items: [
-            {text: '申论', link: './pages/essay/index'}
+            {text: '申论', link: '/pages/essay/index'}
         ]
     },
 ]
