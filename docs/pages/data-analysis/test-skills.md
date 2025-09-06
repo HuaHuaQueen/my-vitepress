@@ -247,7 +247,7 @@ $$
 \frac{A}{B}×\frac{a-b}{1+a}
 $$
 
-#### 平均数的增长率
+### 平均数的增长率
 
 <strong style="color:yellowgreen">识别：平均数+增长+%</strong>
 $$
