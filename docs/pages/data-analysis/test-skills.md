@@ -223,8 +223,10 @@ $$
 
 <strong style="color:yellowgreen">识别：求去年+平均数</strong>
 $$
-A是部分,B是总体\\
-a是分子的增长率，b是分母的增长率\\
+A是分子,B是分母
+$$
+$$
+a是分子的增长率，b是分母的增长率
 \frac{A}{B}×\frac{1+b}{1+a}
 $$
 
