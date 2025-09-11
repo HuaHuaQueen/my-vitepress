@@ -26,8 +26,10 @@
 
    **平均每+上升+% -> 平均数的增长率**
 
-![1](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250302_1740926337.png)![2](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250302_1740926363.png)
+![img.png](images/01993871709d76c39bfb5b7b25334156.png)
 
-![3](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250302_1740926370.png)
+![img.png](images/01993871709d76c39bfb5eba665751e4.png)
 
-![4](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250302_1740926378.png)
+![img.png](images/01993871709d76c39bfb62d9551022fd.png)
+
+![img.png](images/01993871709d76c39bfb6594cd7f7827.png)

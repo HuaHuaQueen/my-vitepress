@@ -1,129 +1,145 @@
 # 图形推理
 
-## 1.位置规律
+## 位置规律
 
-### 图形特征
+**图形特征：元素组成基本相同**
+![img.png](images/01993871709d76c39bfa805e110acc5e.png)
 
-概念：元素组成基本相同
+### 考点1：平移
 
-![image-20250303154340192](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741001445.png)
+**做题方法**：就近假设（标序号）
+![img.png](images/01993871709d76c39bfa8696148b8b31.png)
+
+#### 多宫格方向判定
+
+**看中间，判方向**
+![img.png](images/01993871709d76c39bfa8a1fa299054f.png)
+
+**注意：图形明显分部分（上下、左右、内外），要分开找规律**
 
 #### 走重合判定
 
 1. 题干中和选项绝大数图形块数相同
 2. 走重合的时候，块数最少的图形一般不在第一幅图
 
-![image-20250303155301493](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741001531.png)
+![img.png](images/01993871709d76c39bfa8cd72d235766.png)
 
-#### 旋转、反转
+### 考点2 旋转、反转
 
 1. 左右翻转：竖轴堆成
 2. 上下翻转：横轴堆成
 
-![image-20250303160737995](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741001536.png)
+![img.png](images/01993871709d76c39bfa91535f10d5fe.png)
 
-#### 样式规律
+### 位置规律总结
+
+![img.png](images/01993871709d76c39bfa97448cecfc2b.png)
+
+## 样式规律
 
 1. 遍历
 2. 加减同异（相同线条重复出现）
 3. 黑白运算（黑白块）
+4.
 
-![image-20250303161334299](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741001542.png)
+![img.png](images/01993871709d76c39bfa99e980f0a13d.png)
 
-![image-20250303162132797](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741001548.png)
+![img.png](images/01993871709d76c39bfa9dad6e263173.png)
 
-![image-20250303193918293](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741001961.png)
+![img.png](images/01993871709d76c39bfaa0f5384c5b08.png)
 
-![image-20250303194700445](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741002424.png)
+![img.png](images/01993871709d76c39bfaa6fc37198da9.png)
 
-![image-20250303194730514](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741002457.png)
+![img.png](images/01993871709d76c39bfaaafd75f408c8.png)
 
-![image-20250303194838597](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741002522.png)
+![img.png](images/01993871709d76c39bfaac117d34c9d6.png)
 
-![image-20250303195011428](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741002614.png)
+![img.png](images/01993871709d76c39bfab14a5dbe5f2e.png)
 
-![image-20250303200349073](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741003434.png)
+![img.png](images/01993871709d76c39bfab785f66fc26a.png)
 
-![image-20250303200430912](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741003473.png)
+![img.png](images/01993871709d76c39bfaba3387f82742.png)
 
-![image-20250303200958776](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741003801.png)
+![img.png](images/01993871709d76c39bfabc12fd6ee07f.png)
 
-![image-20250303221532190](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741011334.png)
+![img.png](images/01993871709d76c39bfac0f851b19ec3.png)
 
-![image-20250303222041874](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741011644.png)
+![img.png](images/01993871709d76c39bfac7c55fcbacd8.png)
 
-![image-20250303222244475](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741011768.png)
+![img.png](images/01993871709d76c39bfacac5463892c6.png)
 
-![image-20250303222319259](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741011807.png)
+![img.png](images/01993871709d76c39bfacf07d450b38a.png)
 
-![image-20250303222434601](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741011876.png)
+![img.png](images/01993871709d76c39bfad0893185f410.png)
 
-![image-20250303223108877](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741012271.png)
+![img.png](images/01993871709d76c39bfad65e0767bd2a.png)
 
-![image-20250303223753854](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741012676.png)
+![img.png](images/01993871709d76c39bfad911a51e773a.png)
 
-![image-20250303224457800](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741013100.png)
+![img.png](images/01993871709d76c39bfadfecc43667c5.png)
 
-![image-20250303224858519](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250303_1741013341.png)
+![img.png](images/01993871709d76c39bfae3c10556de2c.png)
 
-![image-20250304144852918](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741070936.png)
+![img.png](images/01993871709d76c39bfae46ce4358744.png)
 
-![image-20250304144911723](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741070953.png)
+![img.png](images/01993871709d76c39bfaeb6158fbf41b.png)
 
-![image-20250304145113730](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741071076.png)
+![img.png](images/01993871709d76c39bfaede1025a0537.png)
 
-![image-20250304145522435](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741071325.png)
+![img.png](images/01993871709d76c39bfaf207f0f43b9d.png)
 
-注意：当某一个面特别大的时候，考虑最大最小面
+![img.png](images/01993871709d76c39bfaf4ec16d05a3d.png)
 
-![image-20250304152155091](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741072917.png)
+**注意：当某一个面特别大的时候，考虑最大最小面**
 
-![image-20250304152353368](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741073035.png)
+![img.png](images/01993871709d76c39bfaf9a318dc5507.png)
 
-![image-20250304154405079](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741077158.png)
+![img.png](images/01993871709d76c39bfafd91bb44c432.png)
 
-![image-20250304154431676](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741077155.png)
+![img.png](images/01993871709d76c39bfb00a5e4e0dce0.png)
 
-![image-20250304154728055](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741074455.png)
+![img.png](images/01993871709d76c39bfb05ed66e55acb.png)
 
-![image-20250304163230367](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741077153.png)
+![img.png](images/01993871709d76c39bfb099db18a0092.png)
 
-![image-20250304163850916](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741077880.png)
+![img.png](images/01993871709d76c39bfb0ee6be8e0ccb.png)
 
-![image-20250304164436502](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741077878.png)
+![img.png](images/01993871709d76c39bfb1259363dacd8.png)
 
-![image-20250304164631810](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741077994.png)
+![img.png](images/01993871709d76c39bfb148e63a9a61f.png)
 
-![image-20250304170538538](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741079140.png)
+![img.png](images/01993871709d76c39bfb1b5a11da1faa.png)
 
-![image-20250304170749393](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741079533.png)
+![img.png](images/01993871709d76c39bfb1c50ac0ae463.png)
 
-![image-20250304171207466](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741079531.png)
+![img.png](images/01993871709d76c39bfb23cfc6cb25ca.png)
 
-![image-20250304171236810](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741079559.png)
+![img.png](images/01993871709d76c39bfb2704b205431d.png)
 
-![image-20250304171427212](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741079670.png)
+![img.png](images/01993871709d76c39bfb2ae2c726d4cb.png)
 
-![image-20250304171632683](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250304_1741079794.png)
+![img.png](images/01993871709d76c39bfb2cd891d7919f.png)
 
-![image-20250304172432362](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453223.png)
+![img.png](images/01993871709d76c39bfb316f5ab2bdb4.png)
 
-![image-20250304172725386](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453220.png)
+![img.png](images/01993871709d76c39bfb36f3304e8c3a.png)
 
-![image-20250304182212268](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453218.png)
+![img.png](images/01993871709d76c39bfb3a2ae50f0ac8.png)
 
-![image-20250304182407028](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453215.png)
+![img.png](images/01993871709d76c39bfb3d7925a3dadf.png)
 
-![image-20250304183555795](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453213.png)
+![img.png](images/01993871709d76c39bfb4186e99eff13.png)
+
+![img.png](images/01993871709d76c39bfb470b52f8e130.png)
 
 **注意**：特殊面是非中心对称的面
 
-![image-20250304183916337](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453211.png)
+![img.png](images/01993871709d76c39bfb49c441eaca4e.png)
 
-![image-20250304183946903](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453209.png)
+![img.png](images/01993871709d76c39bfb4f29eb93f7aa.png)
 
-![image-20250304184242814](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453207.png)
+![img.png](images/01993871709d76c39bfb50952d4f7675.png)
 
 **多个选项有一个相同的特殊面，可以考虑画边法**
 
-![image-20250304184720041](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453205.png)
+![img.png](images/01993871709d76c39bfb5625c1073d2e.png)

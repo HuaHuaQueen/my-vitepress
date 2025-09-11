@@ -16,7 +16,7 @@
 
 ## 分析资料
 
-![image-20250316223540920](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453176.png)
+![img.png](images/01993871709d76c39bfb708fd5ca3afd.png)
 
 ### 要点挖掘技巧
 
@@ -51,7 +51,7 @@
 1. 外在形式上体现为答案分条列点，常见的方法是1、2、3或①、②、③或一、二、三。
 2. 内在逻辑上要确保每条要点话题一致，在要点之间内容无交叉重叠;同时为了更好的体现答案逻辑，建议每条要点都加上总括性信息。
 
-![image-20250316230637299](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453173.png)
+![img.png](images/01993871709d76c39bfb775b0a616601.png)
 
 ## 题型常见要素识别及答题技巧
 
@@ -66,8 +66,8 @@
 ### 答案来源
 
 ①直接摘抄
-
-​	寻找负面的标志性词汇：不科学、不合理、不到位、不均衡、不完善、不健全、不足;缺乏、缺少、流失;少、低、差、弱、陈、单一等
+  
+  寻找负面的标志性词汇：不科学、不合理、不到位、不均衡、不完善、不健全、不足;缺乏、缺少、流失;少、低、差、弱、陈、单一等
 
 ②归纳概括：对案例型材料、数据型材料等进行精准归纳概括。
 
@@ -112,7 +112,7 @@
 
 常见的动词有:建立、健全、统筹、创新、规范、整顿、打击、扶持、规划、设置等。
 
-![image-20250318144300356](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453170.png)
+![img.png](images/01993871709d76c39bfb7a3397d99d12.png)
 
 ## 综合题型
 
@@ -126,7 +126,7 @@
 2. 外延：分析相关要素:如问题、原因、意义、危害等
 3. 解决：材料有则摘抄;材料没有根据答题格子处理
 
-![image-20250318153039195](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453168.png)
+![img.png](images/01993871709d76c39bfb7c68db7c5ec4.png)
 
 **答题逻辑VS材料逻辑**
 
@@ -155,7 +155,7 @@
 
 ## 公文题理论
 
-![image-20250321152144439](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250322_1742630342.png)
+![img.png](images/01993871709d76c39bfb820891a13dda.png)
 
 ### 题型识别
 
@@ -189,29 +189,29 @@
 
 (1)称谓（对象为人物）
 
-​	例如：尊敬的与会嘉宾、广大家长朋友们等。
+例如：尊敬的与会嘉宾、广大家长朋友们等。
 
 (2)主送机关（对象为单位）
 
-​	例如：各社区、各街道办等。
+例如：各社区、各街道办等。
 
 (3)书写格式
 
-​	顶格书写
+顶格书写
 
 #### 落款
 
 (1)单位(个人)
 
-​	例如:某企业工会(写在时间上一行)
+例如:某企业工会(写在时间上一行)
 
 (2)时间
 
-​	例如:2022 年xx月xx日或者xxxx年xx月xx日
+例如:2022 年xx月xx日或者xxxx年xx月xx日
 
 (3)书写格式
 
-​	落款位于正文右下方，日期右空四个格子，发文者以日期为准上方居
+落款位于正文右下方，日期右空四个格子，发文者以日期为准上方居
 
 #### 有无格式对应表
 
@@ -242,11 +242,11 @@
 
 #### 写作框架
 
-![image-20250319143029427](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453162.png)
+![img.png](images/01993871709d76c39bfb87b099789568.png)
 
 #### 例如
 
-![image-20250320132949784](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453160.png)
+![img.png](images/01993871709d76c39bfb88ed7784d207.png)
 
 #### 总结类
 
@@ -260,9 +260,9 @@
 
 #### 例如
 
-![image-20250320140359334](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453155.png)
+![img.png](images/01993871709d76c39bfb8c8f202ef649.png)
 
-![image-20250320143926286](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250320_1742453157.png)
+![img.png](images/01993871709d76c39bfb92deb2817d44.png)
 
 ### 宣传类
 
@@ -276,13 +276,13 @@
 
 #### 框架
 
-![image-20250321133754199](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250322_1742630313.png)
+![img.png](images/01993871709d76c39bfb943f130270ef.png)
 
 #### 例如
 
-![image-20250321141051638](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250322_1742630316.png)
+![img.png](images/01993871709d76c39bfb98ce3442c982.png)
 
-![image-20250321144152737](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250322_1742630320.png)
+![img.png](images/01993871709d76c39bfb9e6d94feb5d2.png)
 
 ### 评论类
 
@@ -296,13 +296,13 @@
 
 #### 框架
 
-![image-20250321144908039](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250322_1742630322.png)
+![img.png](images/01993871709d76c39bfba0b10d78927e.png)
 
 #### 例如
 
-![image-20250321151949123](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250322_1742630325.png)
+![img.png](images/01993871709d76c39bfba4f6dcc65334.png)
 
-![image-20250321152026003](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250322_1742630327.png)
+![img.png](images/01993871709d76c39bfbaa772abdcd0f.png)
 
 ## 大作文
 
@@ -310,17 +310,17 @@
 
 1. 题目中提到结合个人感受或者不拘泥于材料，此时要求要写资料以外的论据或者例子
 
-   观点来源于题干和材料
+   **观点来源于题干和材料**
 
-   ​	找观点的方法第一步:剖析题干
+   **找观点的方法第一步:剖析题干**
 
-   ​	定位方向第二步:梳理材料，确定具体关键词
+   **定位方向第二步:梳理材料，确定具体关键词**
 
 2. 观点要符合资料，最少要有三个分论点，找到的分论点要放在明显的位置，例如标题、首段、各段首句
 
 3. 论据要多使用材料之外的
 
-![image-20250322114534969](https://raw.githubusercontent.com/HuaHuaQueen/Typora-Images/master/2025/03/upgit_20250322_1742630330.png)
+![img.png](images/01993871709d76c39bfbaf8af424f792.png)
 
 ### 写作流程
 
@@ -406,15 +406,15 @@
 
 平衡
 
-​	—幸福生活需处理好“快”与“慢”的关系
+- 幸福生活需处理好“快”与“慢”的关系
 
 试谈“有”与“无”
 
-​	—城市建设理念的辩证法
+- 城市建设理念的辩证法
 
 不患寡而患不均
 
-​	—扶贫工作要注重公平
+- 扶贫工作要注重公平
 
 #### 补充
 
