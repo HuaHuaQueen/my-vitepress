@@ -245,6 +245,7 @@ $$
 #### 计算：两期平均数的增长量
 
 <strong style="color:yellowgreen">识别：…平均…比上年….；选项为增加/减少…</strong>
+
 $$
 \frac{A}{B}×\frac{a-b}{1+a}
 $$
